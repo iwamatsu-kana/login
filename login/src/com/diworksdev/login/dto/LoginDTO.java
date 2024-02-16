@@ -1,5 +1,4 @@
 package com.diworksdev.login.dto;
-
 public class LoginDTO {
 		private int id;
 		private String name;
