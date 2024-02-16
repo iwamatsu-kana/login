@@ -1,4 +1,4 @@
-package com.diworksdev.login.action;
+package com.diworksdev.login.dto;
 
 public class LoginDTO {
 		private int id;
